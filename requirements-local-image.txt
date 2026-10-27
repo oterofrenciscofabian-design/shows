@@ -1,0 +1,6 @@
+# Instalación opcional: solo para inferencia local con GPU compatible.
+diffusers>=0.32
+transformers>=4.45
+accelerate>=1.0
+torch>=2.5
+safetensors>=0.4

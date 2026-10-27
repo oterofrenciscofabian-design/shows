@@ -18,6 +18,14 @@ lerna-debug.log*
 .env.development
 .env.test
 .env.production
+!.env.example
+
+# Python environments and generated artifacts
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+outputs/
 
 # temp directory
 .temp
